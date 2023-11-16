@@ -1,4 +1,4 @@
-id, name, cost
+id, pizza_type, cost
 1, small, 16
-1, medium, 32
-1, large, 64
+2, medium, 32
+3, large, 64
